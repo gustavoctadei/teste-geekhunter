@@ -1,0 +1,2 @@
+# ignorando a pasta que contém as classes compiladas
+target/
